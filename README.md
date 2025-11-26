@@ -32,7 +32,6 @@ Designed and deployed a web application leveraging deep learning algorithms to r
 🔹 GoMeal – Food Finder Web App
 
 Developed an application integrating real-time API search to enhance user search efficiency and improve discovery experience.
----
 
 ## 📫 Connect With Me  
 - LinkedIn: [linkedin.com/in/arnab-maity-cse](http://www.linkedin.com/in/arnab-maity-cse)  
