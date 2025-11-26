@@ -17,27 +17,21 @@
 
 ## 📂 Highlighted ML Projects  
 
-### 🔹 [Skin Cancer Detection](https://github.com/arnab2021maity/SkinCancerDetection)  
-Fuzzy Fusion Framework for **multi-class skin cancer classification** combining **genomic and image features** using CNN + ML techniques.  
+🔹 Skin Cancer Detection – Multimodal ML (CNN + Fuzzy Fusion)
 
----
+Developed a multimodal cancer detection model integrating dermoscopy images with high-dimensional gene-expression features using CNN and fuzzy logic, improving diagnostic accuracy and classification reliability across multiple cancer subtypes.
 
-### 🔹 [CareCal](https://github.com/arnab2021maity/CareCal)  
-**Medical Insurance Premium Prediction App** using ML (Scikit-learn, NumPy, Seaborn).  
-Achieved **85% accuracy**, reducing manual calculation time by **50%**.  
+🔹 CareCal – Medical Insurance Premium Prediction
 
----
+ML-based premium prediction application using Scikit-learn, NumPy, Seaborn; improved estimation efficiency and reduced manual calculation effort.
 
-### 🔹 [LyricLens](https://github.com/arnab2021maity/LyricLens)  
-A **personalized music recommendation system** leveraging **deep learning algorithms**.  
-Improved user engagement by **30%** and session duration by **15%**.  
+🔹 LyricLens – Music Recommendation System
 
----
+Designed and deployed a web application leveraging deep learning algorithms to recommend similar music tracks, improving user engagement and session duration.
 
-### 🔹 [GoMeal](https://github.com/arnab2021maity/GoMeal)  
-A **food finder web app** built using HTML, CSS, and JS with real-time API integration.  
-Enhanced user search efficiency by **25%**, crossed **500+ downloads** in the first month.  
+🔹 GoMeal – Food Finder Web App
 
+Developed an application integrating real-time API search to enhance user search efficiency and improve discovery experience.
 ---
 
 ## 📫 Connect With Me  
