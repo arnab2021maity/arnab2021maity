@@ -8,7 +8,7 @@
 ---
 
 ## 🚀 Skills & Tools  
-- **Languages:** Java (Proficient), Python, JavaScript  
+- **Languages:** Java, Python, JavaScript  
 - **Data Science & ML:** Regression, Classification, Clustering, Scikit-learn, TensorFlow, Pandas, NumPy, Matplotlib, Seaborn  
 - **Full Stack:** HTML, CSS, JavaScript, Node.js, Express.js   
 - **Developer Tools:** VS Code, Jupyter Notebook, PyCharm, IntelliJ IDEA, Git/GitHub  
