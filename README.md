@@ -1,7 +1,8 @@
 # Hi there 👋, I'm Arnab Maity  
 
 🎓 B.Tech CSE '25 | Passionate about **Machine Learning, Data Science, Software Developer & Full Stack Development**  
-💻 Certified: **Oracle Cloud Infrastructure 2025 Data Science Professional**  
+💻 Certified: **Oracle Cloud Infrastructure 2025 Data Science Professional**
+💻 Certified: **Udemy Complete Python and Machine Learning and Professional Certificate in Data Analysis**
 💻 Currently exploring **Deep Learning, CNNs, and Cloud-based ML solutions**  
 🌱 Strong interest in building **ML-driven solutions** to solve real-world problems.  
 
